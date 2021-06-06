@@ -1,4 +1,4 @@
-# Interactive_Tutorial_Bounceball
+# Ball Collisions and Bouncing With Javascript
 
 #### https://krungy.github.io/Interactive_Tutorial_Bounceball/
 
